@@ -1,6 +1,3 @@
-# H1B_Analysis
-H1B_Analysis
-
 # Introduction
 
 The H-1B visa is a non-immigrant visa that allows US companies to employ foreign workers in speciality occupations. However, due to the difference in each states, the environment that every foreign worker would face might vary. This analysis aims to evaluate the H-1B visa application of each states to find out the best states for STEM employees. 
